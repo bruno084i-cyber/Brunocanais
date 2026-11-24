@@ -5,7 +5,7 @@ https://eitvplay.appmembers.com.br/event144/tracks-v1a1/mono.m3u8?token=jzFQQe9O
 https://eitvplay.appmembers.com.br/event59/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://iptv-pro.github.io/logo/Cinemax.png" group-title="Filmes",Cinemax
 https://eitvplay.appmembers.com.br/event95/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
-#EXTINF:-1 tvg-name="Film&Arts" group-title="Filmes",Film&Arts
+#EXTINF:-1 tvg-name="Film&Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Filmes",Film&Arts
 https://eitvplay.appmembers.com.br/event143/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="Filmes",HBO
 https://eitvplay.appmembers.com.br/event87/tracks-v1a1/mono.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
@@ -41,7 +41,7 @@ https://live.lixe.net/hls/g1/Telecine%20Premium%20UHD%20TV/index.m3u8
 https://live.lixe.net/hls/g8/Telecine%20Touch%20UHD%20TV/index.m3u8
 #EXTINF:-1 tvg-name="TNT" group-title="Filmes",TNT
 https://eitvplay.appmembers.com.br/event64/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
-#EXTINF:-1 tvg-name="TNT Novelas" group-title="Filmes",TNT Novelas
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Filmes",TNT Novelas
 https://eitvplay.appmembers.com.br/event157/tracks-v1a1/mono.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-name="Séries" group-title="Filmes",Séries
 https://eitvplay.appmembers.com.br/event63/tracks-v1a1/mono.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
