@@ -1,91 +1,81 @@
 #EXTM3U
-
-# ===== ORIGEM / FROM =====
-
-# ===== TEMPORADA 1 =====
-#EXTINF:-1 tvg-name="T1E01 - Long Day's Journey Into Night" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-01.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E01 - Long Day's Journey Into Night
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 01
 https://nixplay.lat/series/saimo-vods/221097/124364/1/1.mp4
-#EXTINF:-1 tvg-name="T1E02 - The Way Things Are Now" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-02.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E02 - The Way Things Are Now
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 02
 https://nixplay.lat/series/saimo-vods/221097/124364/1/2.mp4
-#EXTINF:-1 tvg-name="T1E03 - Choosing Day" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-03.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E03 - Choosing Day
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 03
 https://nixplay.lat/series/saimo-vods/221097/124364/1/3.mp4
-#EXTINF:-1 tvg-name="T1E04 - A Rock and a Farway" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-04.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E04 - A Rock and a Farway
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 04
 https://nixplay.lat/series/saimo-vods/221097/124364/1/4.mp4
-#EXTINF:-1 tvg-name="T1E05 - Silhouettes" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-05.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E05 - Silhouettes
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 05
 https://nixplay.lat/series/saimo-vods/221097/124364/1/5.mp4
-#EXTINF:-1 tvg-name="T1E06 - Book 74" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-06.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E06 - Book 74
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 06
 https://nixplay.lat/series/saimo-vods/221097/124364/1/6.mp4
-#EXTINF:-1 tvg-name="T1E07 - All Good Things" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-07.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E07 - All Good Things
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 07
 https://nixplay.lat/series/saimo-vods/221097/124364/1/7.mp4
-#EXTINF:-1 tvg-name="T1E08 - Broken Windows, Open Doors" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-08.svg" group-title="Origem / From | Temporada 1",Origem / From - T1E08 - Broken Windows, Open Doors
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 08
 https://nixplay.lat/series/saimo-vods/221097/124364/1/8.mp4
-#EXTINF:-1 tvg-name="T1E09 - Into the Woods" group-title="Origem / From | Temporada 1",Origem / From - T1E09 - Into the Woods
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 09
 https://nixplay.lat/series/saimo-vods/221097/124364/1/9.mp4
-#EXTINF:-1 tvg-name="T1E10 - Oh, the Places We'll Go" group-title="Origem / From | Temporada 1",Origem / From - T1E10 - Oh, the Places We'll Go
+#EXTINF:-1 group-title="Origem | Temporada 1",Episódio 10
 https://nixplay.lat/series/saimo-vods/221097/124364/1/10.mp4
-
-# ===== TEMPORADA 2 =====
-#EXTINF:-1 tvg-name="T2E01 - Strangers in a Strange Land" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-01.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E01 - Strangers in a Strange Land
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 01
 https://nixplay.lat/series/saimo-vods/221097/124364/2/1.mp4
-#EXTINF:-1 tvg-name="T2E02 - The Kindness of Strangers" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-02.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E02 - The Kindness of Strangers
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 02
 https://nixplay.lat/series/saimo-vods/221097/124364/2/2.mp4
-#EXTINF:-1 tvg-name="T2E03 - Tether" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-03.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E03 - Tether
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 03
 https://nixplay.lat/series/saimo-vods/221097/124364/2/3.mp4
-#EXTINF:-1 tvg-name="T2E04 - This Way Gone" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-04.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E04 - This Way Gone
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 04
 https://nixplay.lat/series/saimo-vods/221097/124364/2/4.mp4
-#EXTINF:-1 tvg-name="T2E05 - Lullaby" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-05.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E05 - Lullaby
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 05
 https://nixplay.lat/series/saimo-vods/221097/124364/2/5.mp4
-#EXTINF:-1 tvg-name="T2E06 - Pas de Deux" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-06.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E06 - Pas de Deux
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 06
 https://nixplay.lat/series/saimo-vods/221097/124364/2/6.mp4
-#EXTINF:-1 tvg-name="T2E07 - Belly of the Beast" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-07.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E07 - Belly of the Beast
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 07
 https://nixplay.lat/series/saimo-vods/221097/124364/2/7.mp4
-#EXTINF:-1 tvg-name="T2E08 - Forest for the Trees" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-08.svg" group-title="Origem / From | Temporada 2",Origem / From - T2E08 - Forest for the Trees
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 08
 https://nixplay.lat/series/saimo-vods/221097/124364/2/8.mp4
-#EXTINF:-1 tvg-name="T2E09 - Ball of Magic Fire" group-title="Origem / From | Temporada 2",Origem / From - T2E09 - Ball of Magic Fire
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 09
 https://nixplay.lat/series/saimo-vods/221097/124364/2/9.mp4
-#EXTINF:-1 tvg-name="T2E10 - Once Upon a Time..." group-title="Origem / From | Temporada 2",Origem / From - T2E10 - Once Upon a Time...
+#EXTINF:-1 group-title="Origem | Temporada 2",Episódio 10
 https://nixplay.lat/series/saimo-vods/221097/124364/2/10.mp4
-
-# ===== TEMPORADA 3 =====
-#EXTINF:-1 tvg-name="T3E01 - Shatter" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-01.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E01 - Shatter
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 01
 https://nixplay.lat/series/saimo-vods/221097/124364/3/1.mp4
-#EXTINF:-1 tvg-name="T3E02 - When We Go" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-02.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E02 - When We Go
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 02
 https://nixplay.lat/series/saimo-vods/221097/124364/3/2.mp4
-#EXTINF:-1 tvg-name="T3E03 - Mouse Trap" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-03.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E03 - Mouse Trap
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 03
 https://nixplay.lat/series/saimo-vods/221097/124364/3/3.mp4
-#EXTINF:-1 tvg-name="T3E04 - There and Back Again" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-04.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E04 - There and Back Again
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 04
 https://nixplay.lat/series/saimo-vods/221097/124364/3/4.mp4
-#EXTINF:-1 tvg-name="T3E05 - The Light of Day" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-05.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E05 - The Light of Day
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 05
 https://nixplay.lat/series/saimo-vods/221097/124364/3/5.mp4
-#EXTINF:-1 tvg-name="T3E06 - Scar Tissue" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-06.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E06 - Scar Tissue
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 06
 https://nixplay.lat/series/saimo-vods/221097/124364/3/6.mp4
-#EXTINF:-1 tvg-name="T3E07 - These Fragile Lives" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-07.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E07 - These Fragile Lives
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 07
 https://nixplay.lat/series/saimo-vods/221097/124364/3/7.mp4
-#EXTINF:-1 tvg-name="T3E08 - Thresholds" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-08.svg" group-title="Origem / From | Temporada 3",Origem / From - T3E08 - Thresholds
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 08
 https://nixplay.lat/series/saimo-vods/221097/124364/3/8.mp4
-#EXTINF:-1 tvg-name="T3E09 - Revelations, Chapter One" group-title="Origem / From | Temporada 3",Origem / From - T3E09 - Revelations, Chapter One
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 09
 https://nixplay.lat/series/saimo-vods/221097/124364/3/9.mp4
-#EXTINF:-1 tvg-name="T3E10 - Revelations, Chapter Two" group-title="Origem / From | Temporada 3",Origem / From - T3E10 - Revelations, Chapter Two
+#EXTINF:-1 group-title="Origem | Temporada 3",Episódio 10
 https://nixplay.lat/series/saimo-vods/221097/124364/3/10.mp4
-
-# ===== TEMPORADA 4 =====
-#EXTINF:-1 tvg-name="T4E01 - The Arrival" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-01.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E01 - The Arrival
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 01
 https://nixplay.lat/series/saimo-vods/221097/124364/4/1.mp4
-#EXTINF:-1 tvg-name="T4E02 - Fray" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-02.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E02 - Fray
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 02
 https://nixplay.lat/series/saimo-vods/221097/124364/4/2.mp4
-#EXTINF:-1 tvg-name="T4E03 - Merrily We Go" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-03.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E03 - Merrily We Go
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 03
 https://nixplay.lat/series/saimo-vods/221097/124364/4/3.mp4
-#EXTINF:-1 tvg-name="T4E04 - Of Myths and Monsters" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-04.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E04 - Of Myths and Monsters
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 04
 https://nixplay.lat/series/saimo-vods/221097/124364/4/4.mp4
-#EXTINF:-1 tvg-name="T4E05 - What a Long Strange Trip It's Been" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-05.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E05 - What a Long Strange Trip It's Been
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 05
 https://nixplay.lat/series/saimo-vods/221097/124364/4/5.mp4
-#EXTINF:-1 tvg-name="T4E06 - The Heart Is a Lonely Hunter" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-06.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E06 - The Heart Is a Lonely Hunter
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 06
 https://nixplay.lat/series/saimo-vods/221097/124364/4/6.mp4
-#EXTINF:-1 tvg-name="T4E07 - Best Laid Plans" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-07.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E07 - Best Laid Plans
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 07
 https://nixplay.lat/series/saimo-vods/221097/124364/4/7.mp4
-#EXTINF:-1 tvg-name="T4E08 - Heavy Is the Head" tvg-logo="https://raw.githubusercontent.com/bruno084i-cyber/Brunocanais/main/logos/episodio-08.svg" group-title="Origem / From | Temporada 4",Origem / From - T4E08 - Heavy Is the Head
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 08
 https://nixplay.lat/series/saimo-vods/221097/124364/4/8.mp4
-#EXTINF:-1 tvg-name="T4E09 - The Calm Before" group-title="Origem / From | Temporada 4",Origem / From - T4E09 - The Calm Before
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 09
 https://nixplay.lat/series/saimo-vods/221097/124364/4/9.mp4
-#EXTINF:-1 tvg-name="T4E10 - If a Tree Falls in the Forest..." group-title="Origem / From | Temporada 4",Origem / From - T4E10 - If a Tree Falls in the Forest...
+#EXTINF:-1 group-title="Origem | Temporada 4",Episódio 10
 https://nixplay.lat/series/saimo-vods/221097/124364/4/10.mp4
